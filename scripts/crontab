@@ -1,0 +1,1 @@
+30 7 * * * /path/to/scripts/daily-post-major.sh

@@ -1,0 +1,7 @@
+[input]
+url = "https://www.nationstates.net/api/all"
+workers = 2
+
+[output.rmq]
+enabled = true
+exchange_name = "akari_events"

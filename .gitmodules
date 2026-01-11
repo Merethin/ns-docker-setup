@@ -1,0 +1,15 @@
+[submodule "Akari"]
+	path = Akari
+	url = https://github.com/Merethin/Akari
+[submodule "Bubble"]
+	path = Bubble
+	url = https://github.com/Merethin/Bubble
+[submodule "Vanille"]
+	path = Vanille
+	url = https://github.com/Merethin/Vanille
+[submodule "crystal"]
+	path = crystal
+	url = https://github.com/Merethin/crystal
+[submodule "swash"]
+	path = swash
+	url = https://github.com/Merethin/swash
