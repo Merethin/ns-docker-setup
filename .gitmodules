@@ -13,3 +13,6 @@
 [submodule "swash"]
 	path = swash
 	url = https://github.com/Merethin/swash
+[submodule "telegram-scripts"]
+	path = telegram-scripts
+	url = https://github.com/Merethin/telegram-scripts
